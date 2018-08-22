@@ -1,0 +1,6 @@
+framework module Pods_RestCountries {
+  umbrella header "Pods-RestCountries-umbrella.h"
+
+  export *
+  module * { export * }
+}
